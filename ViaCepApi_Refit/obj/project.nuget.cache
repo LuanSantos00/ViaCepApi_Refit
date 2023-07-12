@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "X7oeRRb2cQawW1geGbDG79GjOhnwUHxwiU+iq+1Mom1c7RWQlHY+BwC1T54eC0NFIsVtkuav/En5UF3z3CGPyg==",
+  "dgSpecHash": "OtJS8BtCAkb+1XEiL2UWq2ZCmNTVz90toIiUOCC7LxQCfyYxTtnsvFQOKvJBoKOXUfAkGiQiVsPqUx0UudOWTw==",
   "success": true,
   "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Estudos\\Refit\\ViaCepApi_Refit\\ViaCepApi_Refit\\ViaCepApi_Refit\\ViaCepApi_Refit.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\luan.santos\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

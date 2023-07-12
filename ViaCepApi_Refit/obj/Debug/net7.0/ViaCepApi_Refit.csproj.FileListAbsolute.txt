@@ -34,3 +34,4 @@ C:\Users\luan.santos\Desktop\Estudos\Refit\ViaCepApi_Refit\ViaCepApi_Refit\ViaCe
 C:\Users\luan.santos\Desktop\Estudos\Refit\ViaCepApi_Refit\ViaCepApi_Refit\ViaCepApi_Refit\obj\Debug\net7.0\ViaCepApi_Refit.pdb
 C:\Users\luan.santos\Desktop\Estudos\Refit\ViaCepApi_Refit\ViaCepApi_Refit\ViaCepApi_Refit\obj\Debug\net7.0\ViaCepApi_Refit.genruntimeconfig.cache
 C:\Users\luan.santos\Desktop\Estudos\Refit\ViaCepApi_Refit\ViaCepApi_Refit\ViaCepApi_Refit\obj\Debug\net7.0\ref\ViaCepApi_Refit.dll
+C:\Users\luan.santos\Desktop\Estudos\Refit\ViaCepApi_Refit\ViaCepApi_Refit\ViaCepApi_Refit\bin\Debug\net7.0\Newtonsoft.Json.dll
