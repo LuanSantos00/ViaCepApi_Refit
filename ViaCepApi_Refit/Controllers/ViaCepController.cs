@@ -9,7 +9,7 @@ namespace ViaCepApi_Refit.Controllers
     public class ViaCepController : ControllerBase
     {
         private readonly IMediator _mediator;
-
+        //acrescentar refit e finalizar!!
         public ViaCepController(IMediator mediator)
             => _mediator = mediator;
 

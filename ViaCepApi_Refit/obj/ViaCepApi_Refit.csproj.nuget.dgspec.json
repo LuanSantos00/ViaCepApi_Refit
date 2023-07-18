@@ -59,6 +59,18 @@
               "target": "Package",
               "version": "[13.0.3, )"
             },
+            "Refit": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Refit.Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

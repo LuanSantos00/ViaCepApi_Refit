@@ -1,5 +1,4 @@
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.DependencyInjection;
+using Refit;
 using System.Reflection;
 using ViaCepApi_Refit.Domain;
 
@@ -18,6 +17,13 @@ namespace ViaCepApi_Refit
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+
+            _ = builder.Services.AddRefitClient<ICepApi>()
+                    .ConfigureHttpClient(c =>
+                    {
+                        c.BaseAddress = new Uri(builder.Configuration.GetSection("CepApiSettings")["BaseUrl"]); c.Timeout = TimeSpan.FromMinutes(5);
+                    });
+
 
             var app = builder.Build();
 
