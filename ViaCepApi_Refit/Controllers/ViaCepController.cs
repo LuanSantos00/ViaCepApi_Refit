@@ -7,9 +7,8 @@ namespace ViaCepApi_Refit.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class ViaCepController : ControllerBase
-    {
+    {//adicionar validators
         private readonly IMediator _mediator;
-        //acrescentar refit e finalizar!!
         public ViaCepController(IMediator mediator)
             => _mediator = mediator;
 

@@ -21,7 +21,7 @@ namespace ViaCepApi_Refit
             _ = builder.Services.AddRefitClient<ICepApi>()
                     .ConfigureHttpClient(c =>
                     {
-                        c.BaseAddress = new Uri(builder.Configuration.GetSection("CepApiSettings")["BaseUrl"]); c.Timeout = TimeSpan.FromMinutes(5);
+                        c.BaseAddress = new Uri(builder.Configuration.GetSection("CepApiSettings")["BaseUrl"]);
                     });
 
 
