@@ -1,3 +1,6 @@
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Identity;
 using Refit;
 using System.Reflection;
 using ViaCepApi_Refit.Domain;
@@ -24,6 +27,7 @@ namespace ViaCepApi_Refit
                         c.BaseAddress = new Uri(builder.Configuration.GetSection("CepApiSettings")["BaseUrl"]);
                     });
 
+            builder.Services.AddValidatorsFromAssemblyContaining<GetCepRequestValidator>();
 
             var app = builder.Build();
 

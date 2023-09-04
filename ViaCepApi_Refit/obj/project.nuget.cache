@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uqtdd/9SguTKK17hYBrh7BoYvD/NSJBkozVZzdsvf3WPpvuzbOu2x/dQoRhsv7LhkERB5aq6+Wjd8uipB7CHYg==",
+  "dgSpecHash": "NAccQG+6FkMKzb1vSTJtzeowVkvbIPr7bS6/lAIwyUVkw+OsCf/mox2fwZLPmL1ZfsZUqoBmKty0iIPkcJFSRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\luan.santos\\Desktop\\Estudos\\Refit\\ViaCepApi_Refit\\ViaCepApi_Refit\\ViaCepApi_Refit\\ViaCepApi_Refit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luan.santos\\.nuget\\packages\\divino.operationresult\\3.1.0\\divino.operationresult.3.1.0.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\luan.santos\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\luan.santos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
